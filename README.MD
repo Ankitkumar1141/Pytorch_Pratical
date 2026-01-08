@@ -88,13 +88,13 @@ pytorch-deep-learning/
 ├── README.md
 └── LICENSE
 
----
-
 ## 🤝 Contributing
 
-Contributions are welcome\! If you find a bug or want to add an implementation for another data structure (e.g., Trie, Skip List), please feel free to submit a **Pull Request**.
+Contributions are welcome! If you find a bug or want to add an implementation,
+please feel free to open a pull request.
 
 ---
 
-## Author
-**Ankit kumar**
+## 👤 Author
+
+**Ankit Kumar**
