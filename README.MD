@@ -54,39 +54,6 @@ This repository is designed for **beginners to intermediate learners** who want 
 
 ---
 
-## 📂 Project Structure
-
-pytorch-deep-learning/
-│
-├── 01_pytorch_basics/
-│   ├── tensors.ipynb
-│   ├── autograd.ipynb
-│   └── training_loop.py
-│
-├── 02_ann/
-│   ├── ann_from_scratch.py
-│   ├── ann_with_nn_module.py
-│   └── ann_training.ipynb
-│
-├── 03_cnn/
-│   ├── cnn_model.py
-│   ├── image_classification.ipynb
-│   └── utils.py
-│
-├── 04_rnn/
-│   ├── rnn_model.py
-│   ├── sequence_modeling.ipynb
-│   └── dataset.py
-│
-├── 05_lstm/
-│   ├── lstm_model.py
-│   ├── text_classification.ipynb
-│   └── timeseries_prediction.py
-│
-├── requirements.txt
-├── README.md
-└── LICENSE
-
 ## 🤝 Contributing
 
 Contributions are welcome! If you find a bug or want to add an implementation,
