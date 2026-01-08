@@ -56,7 +56,6 @@ This repository is designed for **beginners to intermediate learners** who want 
 
 ## 📂 Project Structure
 
-```text
 pytorch-deep-learning/
 │
 ├── 01_pytorch_basics/
